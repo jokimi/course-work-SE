@@ -1,0 +1,9 @@
+cd ..
+
+cd ASM
+
+ml /c in.txt.asm
+
+link /out:in.txt.exe in.txt.obj /SUBSYSTEM:CONSOLE
+
+in.txt.exe
