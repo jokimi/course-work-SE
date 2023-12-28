@@ -1,0 +1,38 @@
+
+								*** ÒÀÁËÈÖÀ ÈÄÅÍÒÈÔÈÊÀÒÎÐÎÂ ***
+
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	ÒÈÏ:			|ÈÄÅÍÒÈÔÈÊÀÒÎÐ:		|ÒÈÏ ÄÀÍÍÛÕ:	 |¹ Â ÒË		|ÇÍÀ×ÅÍÈÅ:
+——————————————————————————————————————————————————————————————————————————————————————————————————
+	FUNCTION		|len				|UNINTEGER		 |0
+	FUNCTION		|comp				|BOOLEAN		 |0
+	FUNCTION		|copy				|STRING			 |0
+	FUNCTION		|concat				|STRING			 |0
+	FUNCTION		|func				|UNINTEGER		 |2
+	PARAMETER		|abc_func			|UNINTEGER		 |5				|0
+	VARIABLE		|sum_func			|UNINTEGER		 |10			|0
+	VARIABLE		|t_Program			|BOOLEAN		 |27			|0
+	LITERAL			|L31 				|BOOLEAN		 |31			|0
+	LITERAL			|L40				|STRING			 |40			|"Hello"
+	VARIABLE		|e_Program			|UNINTEGER		 |47			|0
+	LITERAL			|L51				|UNINTEGER		 |51			|1
+	LITERAL			|L53				|UNINTEGER		 |53			|2
+	VARIABLE		|g_Program			|UNINTEGER		 |62			|0
+	LITERAL			|L66				|UNINTEGER		 |66			|50
+	VARIABLE		|x_Program			|UNINTEGER		 |70			|0
+	LITERAL			|L80				|UNINTEGER		 |80			|4
+	LITERAL			|L84				|UNINTEGER		 |84			|15
+	LITERAL			|L86				|UNINTEGER		 |86			|16
+	VARIABLE		|str1_Program		|STRING			 |96			| 
+	VARIABLE		|str2_Program		|STRING			 |100			| 
+	LITERAL			|L104				|STRING			 |104			|"string1"
+	LITERAL			|L108				|STRING			 |108			|"string2"
+	VARIABLE		|str3_Program		|STRING			 |112			| 
+	VARIABLE		|y_Program			|BOOLEAN		 |130			|0
+	LITERAL			|L134 				|BOOLEAN		 |134			|1
+	VARIABLE		|s_Program			|UNINTEGER		 |143			|0
+	LITERAL			|L156				|UNINTEGER		 |156			|7
+	VARIABLE		|f_Program			|UNINTEGER		 |175			|0
+	LITERAL			|L179				|UNINTEGER		 |179			|83
+	LITERAL			|L187				|UNINTEGER		 |187			|0
+——————————————————————————————————————————————————————————————————————————————————————————————————
